@@ -1,0 +1,46 @@
+h2{
+    font-family: 'Arvo', serif;
+
+    font-size:24px;
+margin-bottom:20px;
+
+}
+#footer{
+    background-color: lightgrey;
+    margin-bottom:30px;
+
+}
+#mar{
+    color
+    :whitesmoke;
+    font-size:18px;
+    font-family:fantasy;
+}
+#aw{
+    text-shadow: 2px 2px orange;
+    margin-bottom:40px;
+    font-size:22px;
+    font-family:monospace;
+    width:20%;
+}
+#result_label{
+    color:lightskyblue;
+    font-size:22px;
+    font-family:monospace
+}
+#copy_right_footer{
+    color:grey;
+    text-shadow:3px 3px
+    lightyellow;
+    font-size:23px;
+    font-style:oblique;
+
+}
+body{
+    background:linear-gradient(#f7d094 0%, #97cff7 100%)
+
+}
+#hearing{
+    height:300px;
+    width:330px;
+}
